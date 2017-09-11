@@ -14,6 +14,6 @@ _First pass at a show format, expect this to change a lot along the way._
 
 6. Contemporary market/issues
 
-**7. The item I've got**
+7. **The item I've got**
 
 8. Next problems/Strange uses. 
