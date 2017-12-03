@@ -7,7 +7,7 @@ materials
 * https://www.youtube.com/watch?v=zoR3wyiVzbY
 * https://pogue.blogs.nytimes.com/2010/12/09/gorilla-glass-the-smartphones-unsung-hero/
 * http://www.techradar.com/news/phone-and-communications/mobile-phones/our-smartphone-addiction-is-costing-the-earth-1299378
-  * * Neodymium, terbium, dysprosium, indium, tin
+  * Neodymium, terbium, dysprosium, indium, tin
 
 design
 * https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
