@@ -10,8 +10,10 @@ materials
   * Neodymium, terbium, dysprosium, indium, tin
 
 design
-* https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
 * https://en.wikipedia.org/wiki/MessagePad
 * https://en.wikipedia.org/wiki/PalmPilot
 * https://en.wikipedia.org/wiki/Danger_Hiptop
+* https://www.theatlantic.com/entertainment/archive/2015/11/charles-and-ray-eames-beyond-the-chair/415764/
 
+ideas 
+* https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
